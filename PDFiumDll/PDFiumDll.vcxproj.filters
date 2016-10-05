@@ -1,0 +1,1125 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="core\src\fdrm\crypto\fx_crypt.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fdrm\crypto\fx_crypt_aes.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fdrm\crypto\fx_crypt_sha.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fpdfapi\fpdf_cmaps\CNS1\Adobe-CNS1-UCS2_5.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fpdfapi\fpdf_cmaps\CNS1\B5pc-H_0.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fpdfapi\fpdf_cmaps\CNS1\B5pc-V_0.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fpdfapi\fpdf_cmaps\CNS1\cmaps_cns1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fpdfapi\fpdf_cmaps\CNS1\CNS-EUC-H_0.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fpdfapi\fpdf_cmaps\CNS1\CNS-EUC-V_0.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fpdfapi\fpdf_cmaps\CNS1\ETen-B5-H_0.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fpdfapi\fpdf_cmaps\CNS1\ETen-B5-V_0.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fpdfapi\fpdf_cmaps\CNS1\ETenms-B5-H_0.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fpdfapi\fpdf_cmaps\CNS1\ETenms-B5-V_0.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fpdfapi\fpdf_cmaps\CNS1\HKscs-B5-H_5.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fpdfapi\fpdf_cmaps\CNS1\HKscs-B5-V_5.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fpdfapi\fpdf_cmaps\CNS1\UniCNS-UCS2-H_3.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fpdfapi\fpdf_cmaps\CNS1\UniCNS-UCS2-V_3.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fpdfapi\fpdf_cmaps\CNS1\UniCNS-UTF16-H_0.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fpdfapi\fpdf_cmaps\GB1\Adobe-GB1-UCS2_5.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fpdfapi\fpdf_cmaps\GB1\cmaps_gb1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fpdfapi\fpdf_cmaps\GB1\GB-EUC-H_0.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fpdfapi\fpdf_cmaps\GB1\GB-EUC-V_0.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fpdfapi\fpdf_cmaps\GB1\GBK-EUC-H_2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fpdfapi\fpdf_cmaps\GB1\GBK-EUC-V_2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fpdfapi\fpdf_cmaps\GB1\GBK2K-H_5.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fpdfapi\fpdf_cmaps\GB1\GBK2K-V_5.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fpdfapi\fpdf_cmaps\GB1\GBKp-EUC-H_2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fpdfapi\fpdf_cmaps\GB1\GBKp-EUC-V_2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fpdfapi\fpdf_cmaps\GB1\GBpc-EUC-H_0.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fpdfapi\fpdf_cmaps\GB1\GBpc-EUC-V_0.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fpdfapi\fpdf_cmaps\GB1\UniGB-UCS2-H_4.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fpdfapi\fpdf_cmaps\GB1\UniGB-UCS2-V_4.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fpdfapi\fpdf_cmaps\Japan1\83pv-RKSJ-H_1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fpdfapi\fpdf_cmaps\Japan1\90ms-RKSJ-H_2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fpdfapi\fpdf_cmaps\Japan1\90ms-RKSJ-V_2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fpdfapi\fpdf_cmaps\Japan1\90msp-RKSJ-H_2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fpdfapi\fpdf_cmaps\Japan1\90msp-RKSJ-V_2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fpdfapi\fpdf_cmaps\Japan1\90pv-RKSJ-H_1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fpdfapi\fpdf_cmaps\Japan1\Add-RKSJ-H_1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fpdfapi\fpdf_cmaps\Japan1\Add-RKSJ-V_1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fpdfapi\fpdf_cmaps\Japan1\Adobe-Japan1-UCS2_4.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fpdfapi\fpdf_cmaps\Japan1\cmaps_japan1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fpdfapi\fpdf_cmaps\Japan1\EUC-H_1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fpdfapi\fpdf_cmaps\Japan1\EUC-V_1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fpdfapi\fpdf_cmaps\Japan1\Ext-RKSJ-H_2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fpdfapi\fpdf_cmaps\Japan1\Ext-RKSJ-V_2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fpdfapi\fpdf_cmaps\Japan1\H_1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fpdfapi\fpdf_cmaps\Japan1\UniJIS-UCS2-H_4.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fpdfapi\fpdf_cmaps\Japan1\UniJIS-UCS2-HW-H_4.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fpdfapi\fpdf_cmaps\Japan1\UniJIS-UCS2-HW-V_4.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fpdfapi\fpdf_cmaps\Japan1\UniJIS-UCS2-V_4.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fpdfapi\fpdf_cmaps\Japan1\UniJIS-UTF16-H_5.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fpdfapi\fpdf_cmaps\Japan1\UniJIS-UTF16-V_5.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fpdfapi\fpdf_cmaps\Japan1\V_1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fpdfapi\fpdf_cmaps\Korea1\Adobe-Korea1-UCS2_2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fpdfapi\fpdf_cmaps\Korea1\cmaps_korea1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fpdfapi\fpdf_cmaps\Korea1\KSC-EUC-H_0.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fpdfapi\fpdf_cmaps\Korea1\KSC-EUC-V_0.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fpdfapi\fpdf_cmaps\Korea1\KSCms-UHC-H_1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fpdfapi\fpdf_cmaps\Korea1\KSCms-UHC-HW-H_1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fpdfapi\fpdf_cmaps\Korea1\KSCms-UHC-HW-V_1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fpdfapi\fpdf_cmaps\Korea1\KSCms-UHC-V_1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fpdfapi\fpdf_cmaps\Korea1\KSCpc-EUC-H_0.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fpdfapi\fpdf_cmaps\Korea1\UniKS-UCS2-H_1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fpdfapi\fpdf_cmaps\Korea1\UniKS-UCS2-V_1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fpdfapi\fpdf_cmaps\Korea1\UniKS-UTF16-H_0.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fpdfapi\fpdf_cmaps\fpdf_cmaps.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fpdfapi\fpdf_edit\fpdf_edit_content.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fpdfapi\fpdf_edit\fpdf_edit_create.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fpdfapi\fpdf_edit\fpdf_edit_doc.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fpdfapi\fpdf_edit\fpdf_edit_image.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fpdfapi\fpdf_font\fpdf_font.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fpdfapi\fpdf_font\fpdf_font_charset.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fpdfapi\fpdf_font\fpdf_font_cid.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fpdfapi\fpdf_font\fpdf_font_utility.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fpdfapi\fpdf_font\ttgsubtable.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fpdfapi\fpdf_page\fpdf_page.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fpdfapi\fpdf_page\fpdf_page_colors.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fpdfapi\fpdf_page\fpdf_page_doc.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fpdfapi\fpdf_page\fpdf_page_func.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fpdfapi\fpdf_page\fpdf_page_graph_state.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fpdfapi\fpdf_page\fpdf_page_image.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fpdfapi\fpdf_page\fpdf_page_parser.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fpdfapi\fpdf_page\fpdf_page_parser_new.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fpdfapi\fpdf_page\fpdf_page_parser_old.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fpdfapi\fpdf_page\fpdf_page_path.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fpdfapi\fpdf_page\fpdf_page_pattern.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fpdfapi\fpdf_parser\fpdf_parser_decode.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fpdfapi\fpdf_parser\fpdf_parser_document.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fpdfapi\fpdf_parser\fpdf_parser_encrypt.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fpdfapi\fpdf_parser\fpdf_parser_fdf.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fpdfapi\fpdf_parser\fpdf_parser_filters.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fpdfapi\fpdf_parser\fpdf_parser_objects.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fpdfapi\fpdf_parser\fpdf_parser_parser.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fpdfapi\fpdf_parser\fpdf_parser_utility.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fpdfapi\fpdf_render\fpdf_render.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fpdfapi\fpdf_render\fpdf_render_cache.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fpdfapi\fpdf_render\fpdf_render_image.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fpdfapi\fpdf_render\fpdf_render_loadimage.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fpdfapi\fpdf_render\fpdf_render_pattern.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fpdfapi\fpdf_render\fpdf_render_text.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fpdfapi\fpdf_basic_module.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fpdfdoc\doc_action.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fpdfdoc\doc_annot.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fpdfdoc\doc_ap.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fpdfdoc\doc_basic.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fpdfdoc\doc_bookmark.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fpdfdoc\doc_form.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fpdfdoc\doc_formcontrol.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fpdfdoc\doc_formfield.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fpdfdoc\doc_link.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fpdfdoc\doc_metadata.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fpdfdoc\doc_ocg.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fpdfdoc\doc_tagged.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fpdfdoc\doc_utils.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fpdfdoc\doc_viewerPreferences.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fpdfdoc\doc_vt.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fpdfdoc\doc_vtmodule.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fpdftext\fpdf_text.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fpdftext\fpdf_text_int.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fpdftext\fpdf_text_search.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fpdftext\unicodenormalization.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fpdftext\unicodenormalizationdata.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxcodec\codec\fx_codec.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxcodec\codec\fx_codec_fax.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxcodec\codec\fx_codec_flate.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxcodec\codec\fx_codec_icc.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxcodec\codec\fx_codec_jbig.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxcodec\codec\fx_codec_jbig_enc.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxcodec\codec\fx_codec_jpeg.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxcodec\codec\fx_codec_jpx_opj.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxcodec\fx_libopenjpeg\src\fx_bio.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxcodec\fx_libopenjpeg\src\fx_cio.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxcodec\fx_libopenjpeg\src\fx_dwt.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxcodec\fx_libopenjpeg\src\fx_event.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxcodec\fx_libopenjpeg\src\fx_function_list.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxcodec\fx_libopenjpeg\src\fx_image.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxcodec\fx_libopenjpeg\src\fx_invert.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxcodec\fx_libopenjpeg\src\fx_j2k.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxcodec\fx_libopenjpeg\src\fx_j2k_lib.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxcodec\fx_libopenjpeg\src\fx_jpt.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxcodec\fx_libopenjpeg\src\fx_mct.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxcodec\fx_libopenjpeg\src\fx_mqc.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxcodec\fx_libopenjpeg\src\fx_openjpeg.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxcodec\fx_libopenjpeg\src\fx_openjpeg_jp2.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxcodec\fx_libopenjpeg\src\fx_opj_clock.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxcodec\fx_libopenjpeg\src\fx_pi.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxcodec\fx_libopenjpeg\src\fx_raw.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxcodec\fx_libopenjpeg\src\fx_t1.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxcodec\fx_libopenjpeg\src\fx_t1_generate_luts.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxcodec\fx_libopenjpeg\src\fx_t2.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxcodec\fx_libopenjpeg\src\fx_tcd.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxcodec\fx_libopenjpeg\src\fx_tgt.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxcodec\fx_zlib\src\fx_zlib_adler32.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxcodec\fx_zlib\src\fx_zlib_compress.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxcodec\fx_zlib\src\fx_zlib_crc32.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxcodec\fx_zlib\src\fx_zlib_deflate.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxcodec\fx_zlib\src\fx_zlib_gzclose.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxcodec\fx_zlib\src\fx_zlib_gzlib.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxcodec\fx_zlib\src\fx_zlib_gzread.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxcodec\fx_zlib\src\fx_zlib_gzwrite.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxcodec\fx_zlib\src\fx_zlib_infback.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxcodec\fx_zlib\src\fx_zlib_inffast.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxcodec\fx_zlib\src\fx_zlib_inflate.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxcodec\fx_zlib\src\fx_zlib_inftrees.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxcodec\fx_zlib\src\fx_zlib_trees.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxcodec\fx_zlib\src\fx_zlib_uncompr.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxcodec\fx_zlib\src\fx_zlib_zutil.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxcodec\jbig2\JBig2_ArithIntDecoder.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxcodec\jbig2\JBig2_Context.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxcodec\jbig2\JBig2_GeneralDecoder.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxcodec\jbig2\JBig2_HuffmanDecoder.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxcodec\jbig2\JBig2_HuffmanTable.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxcodec\jbig2\JBig2_Image.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxcodec\jbig2\JBig2_Object.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxcodec\jbig2\JBig2_PatternDict.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxcodec\jbig2\JBig2_Segment.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxcodec\jbig2\JBig2_SymbolDict.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxcodec\lcms2\src\fx_cmscam02.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxcodec\lcms2\src\fx_cmscgats.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxcodec\lcms2\src\fx_cmscnvrt.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxcodec\lcms2\src\fx_cmserr.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxcodec\lcms2\src\fx_cmsgamma.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxcodec\lcms2\src\fx_cmsgmt.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxcodec\lcms2\src\fx_cmshalf.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxcodec\lcms2\src\fx_cmsintrp.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxcodec\lcms2\src\fx_cmsio0.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxcodec\lcms2\src\fx_cmsio1.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxcodec\lcms2\src\fx_cmslut.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxcodec\lcms2\src\fx_cmsmd5.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxcodec\lcms2\src\fx_cmsmtrx.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxcodec\lcms2\src\fx_cmsnamed.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxcodec\lcms2\src\fx_cmsopt.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxcodec\lcms2\src\fx_cmspack.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxcodec\lcms2\src\fx_cmspcs.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxcodec\lcms2\src\fx_cmsplugin.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxcodec\lcms2\src\fx_cmsps2.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxcodec\lcms2\src\fx_cmssamp.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxcodec\lcms2\src\fx_cmssm.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxcodec\lcms2\src\fx_cmstypes.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxcodec\lcms2\src\fx_cmsvirt.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxcodec\lcms2\src\fx_cmswtpnt.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxcodec\lcms2\src\fx_cmsxform.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxcodec\libjpeg\fpdfapi_jcapimin.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxcodec\libjpeg\fpdfapi_jcapistd.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxcodec\libjpeg\fpdfapi_jccoefct.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxcodec\libjpeg\fpdfapi_jccolor.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxcodec\libjpeg\fpdfapi_jcdctmgr.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxcodec\libjpeg\fpdfapi_jchuff.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxcodec\libjpeg\fpdfapi_jcinit.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxcodec\libjpeg\fpdfapi_jcmainct.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxcodec\libjpeg\fpdfapi_jcmarker.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxcodec\libjpeg\fpdfapi_jcmaster.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxcodec\libjpeg\fpdfapi_jcomapi.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxcodec\libjpeg\fpdfapi_jcparam.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxcodec\libjpeg\fpdfapi_jcphuff.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxcodec\libjpeg\fpdfapi_jcprepct.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxcodec\libjpeg\fpdfapi_jcsample.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxcodec\libjpeg\fpdfapi_jctrans.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxcodec\libjpeg\fpdfapi_jdapimin.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxcodec\libjpeg\fpdfapi_jdapistd.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxcodec\libjpeg\fpdfapi_jdcoefct.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxcodec\libjpeg\fpdfapi_jdcolor.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxcodec\libjpeg\fpdfapi_jddctmgr.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxcodec\libjpeg\fpdfapi_jdhuff.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxcodec\libjpeg\fpdfapi_jdinput.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxcodec\libjpeg\fpdfapi_jdmainct.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxcodec\libjpeg\fpdfapi_jdmarker.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxcodec\libjpeg\fpdfapi_jdmaster.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxcodec\libjpeg\fpdfapi_jdmerge.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxcodec\libjpeg\fpdfapi_jdphuff.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxcodec\libjpeg\fpdfapi_jdpostct.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxcodec\libjpeg\fpdfapi_jdsample.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxcodec\libjpeg\fpdfapi_jdtrans.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxcodec\libjpeg\fpdfapi_jerror.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxcodec\libjpeg\fpdfapi_jfdctfst.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxcodec\libjpeg\fpdfapi_jfdctint.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxcodec\libjpeg\fpdfapi_jidctfst.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxcodec\libjpeg\fpdfapi_jidctint.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxcodec\libjpeg\fpdfapi_jidctred.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxcodec\libjpeg\fpdfapi_jmemmgr.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxcodec\libjpeg\fpdfapi_jmemnobs.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxcodec\libjpeg\fpdfapi_jutils.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxcrt\fx_arabic.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxcrt\fx_basic_array.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxcrt\fx_basic_bstring.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxcrt\fx_basic_buffer.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxcrt\fx_basic_coords.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxcrt\fx_basic_gcc.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxcrt\fx_basic_list.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxcrt\fx_basic_maps.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxcrt\fx_basic_memmgr.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxcrt\fx_basic_memmgr_mini.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxcrt\fx_basic_plex.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxcrt\fx_basic_utf.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxcrt\fx_basic_util.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxcrt\fx_basic_wstring.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxcrt\fx_extension.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxcrt\fx_ucddata.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxcrt\fx_unicode.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxcrt\fx_xml_composer.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxcrt\fx_xml_parser.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxcrt\fxcrt_platforms.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxcrt\fxcrt_posix.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxcrt\fxcrt_windows.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxge\agg\src\fxfx_agg_curves.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxge\agg\src\fxfx_agg_driver.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxge\agg\src\fxfx_agg_path_storage.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxge\agg\src\fxfx_agg_rasterizer_scanline_aa.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxge\agg\src\fxfx_agg_vcgen_dash.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxge\agg\src\fxfx_agg_vcgen_stroke.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxge\android\fpf_skiafont.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxge\android\fpf_skiafontmgr.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxge\android\fpf_skiamodule.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxge\android\fx_android_font.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxge\android\fx_android_imp.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxge\apple\fx_apple_platform.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxge\apple\fx_mac_imp.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxge\apple\fx_quartz_device.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxge\dib\fx_dib_composite.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxge\dib\fx_dib_convert.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxge\dib\fx_dib_engine.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxge\dib\fx_dib_main.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxge\dib\fx_dib_transform.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxge\fontdata\chromefontdata\FoxitDingbats.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxge\fontdata\chromefontdata\FoxitFixed.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxge\fontdata\chromefontdata\FoxitFixedBold.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxge\fontdata\chromefontdata\FoxitFixedBoldItalic.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxge\fontdata\chromefontdata\FoxitFixedItalic.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxge\fontdata\chromefontdata\FoxitSans.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxge\fontdata\chromefontdata\FoxitSansBold.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxge\fontdata\chromefontdata\FoxitSansBoldItalic.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxge\fontdata\chromefontdata\FoxitSansItalic.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxge\fontdata\chromefontdata\FoxitSansMM.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxge\fontdata\chromefontdata\FoxitSerif.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxge\fontdata\chromefontdata\FoxitSerifBold.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxge\fontdata\chromefontdata\FoxitSerifBoldItalic.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxge\fontdata\chromefontdata\FoxitSerifItalic.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxge\fontdata\chromefontdata\FoxitSerifMM.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxge\fontdata\chromefontdata\FoxitSymbol.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxge\fx_freetype\src\fxft_cff.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxge\fx_freetype\src\fxft_ftbase.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxge\fx_freetype\src\fxft_ftbitmap.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxge\fx_freetype\src\fxft_ftglyph.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxge\fx_freetype\src\fxft_ftinit.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxge\fx_freetype\src\fxft_ftlcdfil.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxge\fx_freetype\src\fxft_ftmm.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxge\fx_freetype\src\fxft_ftsystem.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxge\fx_freetype\src\fxft_psaux.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxge\fx_freetype\src\fxft_pshinter.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxge\fx_freetype\src\fxft_psmodule.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxge\fx_freetype\src\fxft_raster.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxge\fx_freetype\src\fxft_sfnt.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxge\fx_freetype\src\fxft_smooth.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxge\fx_freetype\src\fxft_truetype.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxge\fx_freetype\src\fxft_type1.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxge\fx_freetype\src\fxft_type1cid.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxge\ge\fx_ge.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxge\ge\fx_ge_device.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxge\ge\fx_ge_font.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxge\ge\fx_ge_fontmap.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxge\ge\fx_ge_linux.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxge\ge\fx_ge_path.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxge\ge\fx_ge_ps.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxge\ge\fx_ge_text.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxge\win32\fx_win32_device.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxge\win32\fx_win32_dib.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxge\win32\fx_win32_dwrite.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxge\win32\fx_win32_gdipext.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\fxge\win32\fx_win32_print.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\reflow\autoreflow.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\reflow\layoutprocessor_reflow.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\reflow\layoutprovider_taggedpdf.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\reflow\reflowedpage.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\reflow\reflowedtextpage.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="core\src\reflow\reflowengine.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="fpdfsdk\src\fpdfsave.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="fpdfsdk\src\fpdf_dataavail.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="fpdfsdk\src\fpdf_ext.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="fpdfsdk\src\fpdf_flatten.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="fpdfsdk\src\fpdf_progressive.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="fpdfsdk\src\fpdf_searchex.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="fpdfsdk\src\fpdf_sysfontinfo.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="fpdfsdk\src\fpdf_transformpage.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="fpdfsdk\src\fpdfdoc.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="fpdfsdk\src\fpdfeditimg.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="fpdfsdk\src\fpdfeditpage.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="fpdfsdk\src\fpdfoom.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="fpdfsdk\src\fpdfppo.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="fpdfsdk\src\fpdfview.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="fpdfsdk\src\fpdftext.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="fpdfsdk\src\fsdk_rendercontext.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="fpdfsdk\include\fpdf_dataavail.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="fpdfsdk\include\fpdf_ext.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="fpdfsdk\include\fpdf_flatten.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="fpdfsdk\include\fpdf_fwlevent.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="fpdfsdk\include\fpdf_progressive.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="fpdfsdk\include\fpdf_searchex.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="fpdfsdk\include\fpdf_sysfontinfo.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="fpdfsdk\include\fpdf_transformpage.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="fpdfsdk\include\fpdfdoc.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="fpdfsdk\include\fpdfedit.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="fpdfsdk\include\fpdfoom.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="fpdfsdk\include\fpdfppo.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="fpdfsdk\include\fpdfsave.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="fpdfsdk\include\fpdftext.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="fpdfsdk\include\fpdfview.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="fpdfsdk\include\fsdk_rendercontext.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
